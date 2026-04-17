@@ -1,0 +1,7 @@
+.idea
+.run
+.env
+.env.local
+.vscode
+.DS_Store
+/var/gitlab
